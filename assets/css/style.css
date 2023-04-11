@@ -30,6 +30,15 @@ h1, h2 {
 }
 
 #menu{
+    font-size: 150%;
     float: right;
+    letter-spacing: 2.5px;
+}
+
+#menu li{
+float: right;
+list-style: none;
+margin: 20px;
+
 }
 
