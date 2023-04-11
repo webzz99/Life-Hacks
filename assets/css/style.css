@@ -1,14 +1,35 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
+/* default maring,padding and border removed */
 *{
     margin:0%;
     padding:0%;
     border:none;
+    color:black;
+
 }
 
 body{
     font-family:poppins, sans-serif;
     font-weight:300;
     
+}
+
+h1, h2 {
+
+    font-family:poppins, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    color: black;
+
+}
+#logo{
+
+    float: left;
+    font-size: 300%;
+}
+
+#menu{
+    float: right;
 }
 
