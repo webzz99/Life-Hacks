@@ -29,6 +29,8 @@ h1, h2 {
     font-size: 300%;
 }
 
+/* ul links to other sections on page*/
+
 #menu{
     font-size: 150%;
     float: right;
@@ -36,9 +38,35 @@ h1, h2 {
 }
 
 #menu li{
-float: right;
+float: left;
 list-style: none;
 margin: 20px;
 
 }
 
+#menu a{
+    text-decoration: none;
+
+}
+
+#menu, #logo{
+    line-height: 75px;
+}
+
+/* mouse hover transition*/
+
+#menu a:hover{
+    background-image: linear-gradient(
+    to right,
+    #54b3d6,
+    #54b3d6 50%,
+    #000 50%
+  );
+  background-size: 200% 100%;
+  background-position: -100%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 0.3s ease-in-out;
+}
+
+}
