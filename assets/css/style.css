@@ -266,3 +266,28 @@ input {
   font-size: 20px;
 
 }
+
+footer{
+    height: 200px;
+
+}
+
+.social-links{
+    text-align: center;
+
+
+}
+
+.social-links li{
+    display: inline-block;
+
+}
+
+.social-links i{
+    font-size: 100%;
+    margin:2px;
+    padding: 2px;
+    color: black;
+
+
+}
