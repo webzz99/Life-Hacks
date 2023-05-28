@@ -32,6 +32,8 @@ The "About Us" titled " Making Life Easier " section provides a comprehensive ov
 
 Within the "About Us" section of the life hacks site, users can find a table that provides detailed information on the various services that the site offers. This table outlines the different categories of life hacks available on the site, such as home improvement, technology, health, and finance. For each category, the table lists the specific life hacks that fall under that category, providing users with a clear understanding of the types of content they can expect to find on the site.  
 
+![Section1MP](https://github.com/webzz99/Life-Hacks/blob/main/Media/Section1MP.png)
+
 # Life Hack Vids 
 
 The "Life Hacks Vids" section on the site enables users to access a range of helpful life hacks in various categories such as fashion, office, and home hacks. This section is a significant aspect of the site as it provides users with visual demonstrations of the life hacks, which is often necessary to understand and apply them effectively.  
