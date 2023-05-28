@@ -38,6 +38,8 @@ Within the "About Us" section of the life hacks site, users can find a table tha
 
 The "Life Hacks Vids" section on the site enables users to access a range of helpful life hacks in various categories such as fashion, office, and home hacks. This section is a significant aspect of the site as it provides users with visual demonstrations of the life hacks, which is often necessary to understand and apply them effectively.  
 
+![section2Vids](https://github.com/webzz99/Life-Hacks/blob/main/Media/section2Vids.png)
+
 # Sign Up 
 
 The "Sign Up" section of the life hacks site provides users with the ability to create an account, offering benefits to both the user and the site. With the user's permission, the site can obtain their email address, which can be used to send notifications about new videos uploaded to the site. This feature is useful for keeping users engaged and up-to-date with the latest life hacks available on the site.
