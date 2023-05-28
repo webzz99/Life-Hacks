@@ -21,6 +21,7 @@ Placed at the top of the website, the navigation bar provides users with easy ac
 
 The life hacks website's landing page features a visually pleasing design that showcases the site's motto "Making Life Easier" in an overlay on the landing page image. This captivating feature is the first thing that users see when they visit the site, providing them with an excellent first impression. Positioned above the image, the navigation bar is readily accessible, enabling users to move around the site with ease from the outset.
 
+![landingpage](https://github.com/webzz99/Life-Hacks/blob/main/Media/landingpage.png)
 
 
 
