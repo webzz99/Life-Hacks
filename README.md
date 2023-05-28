@@ -13,6 +13,8 @@ Our target audience is anyone who is looking to improve their quality of life by
 
 Placed at the top of the website, the navigation bar provides users with easy access to every section, including the signup section, gallery, and about us section. It is designed to be fully responsive and is functional on all types of devices.
 
+![NavBar](https://github.com/webzz99/Life-Hacks/blob/main/Media/NavBar.png)
+
  
 
 •	Life Hacks Landing page
