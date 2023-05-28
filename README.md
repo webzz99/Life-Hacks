@@ -123,8 +123,10 @@ Deploying the site to GitHub Pages involves the following steps:
 5.	After the refresh, a detailed ribbon display will confirm the successful deployment of the site to GitHub Pages.
 
 Confirmation in ribbon that site is Live:
+
+![Live pages](https://github.com/webzz99/Life-Hacks/blob/main/Media/ConfirmationLIVE.png)
   
-#Credits 
+# Credits 
 
 Code Institute Love Running Example: I used the Love Running example provided by Code Institute as a template for my site. This example helped me establish a foundation and provided a similar design structure that I customized to suit my own website's needs.
 YouTube Videos: I incorporated videos from YouTube into my website to enrich the user experience and provide engaging multimedia content. These videos were carefully selected to align with the theme and purpose of my site, offering valuable information or visual elements to visitors.
