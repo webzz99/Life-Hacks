@@ -130,7 +130,21 @@ Confirmation in ribbon that site is Live:
 # Credits 
 
 Code Institute Love Running Example: I used the Love Running example provided by Code Institute as a template for my site. This example helped me establish a foundation and provided a similar design structure that I customized to suit my own website's needs.
-YouTube Videos: I incorporated videos from YouTube into my website to enrich the user experience and provide engaging multimedia content. These videos were carefully selected to align with the theme and purpose of my site, offering valuable information or visual elements to visitors.
+
+### YouTube Videos: 
+I incorporated videos from YouTube into my website to enrich the user experience and provide engaging multimedia content. These videos were carefully selected to align with the theme and purpose of my site, offering valuable information or visual elements to visitors.
+
+###### Youtube Video Links
+
+![Youtube Video links] 
+(https://www.youtube.com/embed/VlBkKbK4rok)
+       
+(https://www.youtube.com/embed/wtXjHtnglxU)
+
+(https://www.youtube.com/embed/9R-Ll6odFw8)
+
+(https://www.youtube.com/embed/QaxBsqBvfNA)
+
 Placeit.net: To enhance the visual appeal of my website, I obtained paid images from Placeit.net. These images were chosen to complement the overall design and content of my site, adding an aesthetic touch and enhancing the user's visual experience.
 By utilizing these resources, I aimed to leverage existing templates, multimedia content, and professional imagery to create a visually appealing and engaging website for visitors. It is important to acknowledge and credit these sources for their contribution to the overall design and content of my site.
 
