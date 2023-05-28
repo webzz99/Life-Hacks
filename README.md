@@ -145,7 +145,7 @@ Confirmation in ribbon that site is Live:
 ![Live pages](https://github.com/webzz99/Life-Hacks/blob/main/Media/ConfirmationLIVE.png)
  </p>
   
-# Credits 
+# Credits  
 
 Code Institute Love Running Example: I used the Love Running example provided by Code Institute as a template for my site. This example helped me establish a foundation and provided a similar design structure that I customized to suit my own website's needs.
 
