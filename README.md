@@ -15,7 +15,9 @@ Our target audience is anyone who is looking to improve their quality of life by
 
 Placed at the top of the website, the navigation bar provides users with easy access to every section, including the signup section, gallery, and about us section. It is designed to be fully responsive and is functional on all types of devices.
 
+ <p align="center">
 ![NavBar](https://github.com/webzz99/Life-Hacks/blob/main/Media/NavBar.png)
+ </p>
 
  
 
@@ -23,7 +25,9 @@ Placed at the top of the website, the navigation bar provides users with easy ac
 
 The life hacks website's landing page features a visually pleasing design that showcases the site's motto "Making Life Easier" in an overlay on the landing page image. This captivating feature is the first thing that users see when they visit the site, providing them with an excellent first impression. Positioned above the image, the navigation bar is readily accessible, enabling users to move around the site with ease from the outset.
 
+ <p align="center">
 ![landingpage](https://github.com/webzz99/Life-Hacks/blob/main/Media/landingpage.png)
+ </p>
 
 
 
@@ -34,45 +38,52 @@ The "About Us" titled " Making Life Easier " section provides a comprehensive ov
 
 Within the "About Us" section of the life hacks site, users can find a table that provides detailed information on the various services that the site offers. This table outlines the different categories of life hacks available on the site, such as home improvement, technology, health, and finance. For each category, the table lists the specific life hacks that fall under that category, providing users with a clear understanding of the types of content they can expect to find on the site.  
 
+ <p align="center">
 ![Section1MP](https://github.com/webzz99/Life-Hacks/blob/main/Media/Section1MP.png)
+ </p>
 
 # Life Hack Vids 
 
 The "Life Hacks Vids" section on the site enables users to access a range of helpful life hacks in various categories such as fashion, office, and home hacks. This section is a significant aspect of the site as it provides users with visual demonstrations of the life hacks, which is often necessary to understand and apply them effectively.  
 
+ <p align="center">
 ![section2Vids](https://github.com/webzz99/Life-Hacks/blob/main/Media/section2Vids.png)
+ </p>
 
 # Sign Up 
 
 The "Sign Up" section of the life hacks site provides users with the ability to create an account, offering benefits to both the user and the site. With the user's permission, the site can obtain their email address, which can be used to send notifications about new videos uploaded to the site. This feature is useful for keeping users engaged and up-to-date with the latest life hacks available on the site.
 Furthermore, signing up for an account enables users to access subscription accounts, which can be used to book onto life hack sessions and gain exclusive access to new life hacks before they are released to the general public. This feature allows the site to progress and expand its offerings while also providing users with added value for their membership.
 
+ <p align="center">
 ![Sign up](https://github.com/webzz99/Life-Hacks/blob/main/Media/section3Signup.png)
+ </p>
 
 
 In the following example, form validation is implemented to require the inclusion of an '@' symbol within the email field. Without this symbol, the input cannot be submitted.
 
+ <p align="center">
 ![Sign up validation](https://github.com/webzz99/Life-Hacks/blob/main/Media/Section3SignupValidation.png)
+ </p>
  
 # Footer
 The footer section of the life hacks site features a message that provides users with various options to contact the site, including email, phone, and postal mail using the address provided. Additionally, the footer includes links to the site's social media accounts, enabling users to connect with the site and engage with its content via social media platforms.
 
+ <p align="center">
 ![Footer](https://github.com/webzz99/Life-Hacks/blob/main/Media/Section4Footer.png)
+ </p>
 
 The footer of the life hacks site features a convenient button labeled "Back to Top." Clicking this button instantly sends users back to the top of the page, saving them the hassle of manually scrolling up. This feature enhances the user-friendliness of the site, making it more accessible and efficient for users to navigate through its content.
 
+ <p align="center">
 ![BacktoToplink](https://github.com/webzz99/Life-Hacks/blob/main/Media/BacktoToplink.png)
-
-
-
-
-
-
+ </p>
 
 
 # Features left to Implement
 
 The life hacks site plans to implement several new features in the future, including subscription accounts, a community forum page, and animation. The introduction of subscription accounts with monthly fees will allow the site to generate revenue, which can be reinvested into further developing the site and adding new features.
+
 The addition of a community forum page will provide a platform for site users to interact with one another and establish a sense of community within the site. This will enhance user engagement and promote a collaborative environment for sharing life hacks and tips.
 Furthermore, the site plans to incorporate animation elements to enhance its visual appeal and make it more attractive to users. These animated features will add an extra layer of interactivity and engagement for users, making the site more dynamic and enjoyable to use.
 
@@ -82,8 +93,13 @@ Furthermore, the site plans to incorporate animation elements to enhance its vis
 
 I have performed the following testing on my website:
 User Experience Testing: I put myself in the shoes of my website visitors and navigated through the site to evaluate its user experience. I considered factors such as ease of navigation, intuitive design, and clear call-to-action elements.
+
+
 Content Review: I carefully checked for any spelling or grammatical errors in my content. I ensured that all text is readable, images are displaying correctly, and multimedia elements (videos, audio) are functioning properly.
+
+
 Cross-Browser Compatibility: I tested my website on different web browsers, including Chrome, Firefox, Safari, and Edge, to ensure that it displays correctly and functions properly across various platforms.
+
 Functionality Testing: I checked if all the features and functionalities of my website are working as intended. I tested forms, buttons, links, navigation menus, search functionality, and any interactive elements. I made sure there are no errors or broken functionalities.
 By performing these tests, I aimed to ensure that my website provides a positive user experience, has error-free content, is compatible across different browsers, and functions correctly.
 
@@ -91,19 +107,17 @@ By performing these tests, I aimed to ensure that my website provides a positive
 
 # W3C Validator testing 
 •	HTML
-
+ <p align="center">
 ![W3C HTLM Validation](https://github.com/webzz99/Life-Hacks/blob/main/Media/W3CHTMLV.png)
+ </p>
   
 
 •	CSS
-
+ <p align="center">
 ![W3C CSS Validation](https://github.com/webzz99/Life-Hacks/blob/main/Media/W3CCSSV.png)
+ </p>
  
 
-
-
-
- 
 
 During the testing process, I encountered several bugs in my HTML and CSS code. To identify and address these issues, I utilized the W3C validator, a widely recognized tool for validating web documents. The validator helped me pinpoint specific errors and warnings within my code, such as incorrect syntax, missing elements, or deprecated attributes.
 
@@ -127,7 +141,9 @@ Deploying the site to GitHub Pages involves the following steps:
 
 Confirmation in ribbon that site is Live:
 
+ <p align="center">
 ![Live pages](https://github.com/webzz99/Life-Hacks/blob/main/Media/ConfirmationLIVE.png)
+ </p>
   
 # Credits 
 
