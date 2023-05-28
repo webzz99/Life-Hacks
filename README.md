@@ -4,8 +4,9 @@ Welcome to "Life Hacks Hub" – your ultimate destination for all things life ha
 Our target audience is anyone who is looking to improve their quality of life by learning new skills, adapting to new circumstances, and maximizing their resources. Whether you're a busy professional, a student, a stay-at-home parent, or a retiree, our website caters to your needs and provides actionable advice that can be easily implemented into your daily routine.
 
 ####  Link to Live page - https://webzz99.github.io/Life-Hacks/
- 
+ <p align="center">
  ![mockup](https://github.com/webzz99/Life-Hacks/blob/main/Media/mockup.png)
+ </p>
 
 # Features
 
