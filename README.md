@@ -148,6 +148,9 @@ I incorporated videos from YouTube into my website to enrich the user experience
 Placeit.net: To enhance the visual appeal of my website, I obtained paid images from Placeit.net. These images were chosen to complement the overall design and content of my site, adding an aesthetic touch and enhancing the user's visual experience.
 By utilizing these resources, I aimed to leverage existing templates, multimedia content, and professional imagery to create a visually appealing and engaging website for visitors. It is important to acknowledge and credit these sources for their contribution to the overall design and content of my site.
 
+###### Placeit link:
+
+(https://placeit.net/)
 
 
 
