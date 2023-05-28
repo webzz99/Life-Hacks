@@ -44,9 +44,13 @@ The "Life Hacks Vids" section on the site enables users to access a range of hel
 
 The "Sign Up" section of the life hacks site provides users with the ability to create an account, offering benefits to both the user and the site. With the user's permission, the site can obtain their email address, which can be used to send notifications about new videos uploaded to the site. This feature is useful for keeping users engaged and up-to-date with the latest life hacks available on the site.
 Furthermore, signing up for an account enables users to access subscription accounts, which can be used to book onto life hack sessions and gain exclusive access to new life hacks before they are released to the general public. This feature allows the site to progress and expand its offerings while also providing users with added value for their membership.
-In the following example, form validation is implemented to require the inclusion of an '@' symbol within the email field. Without this symbol, the input cannot be submitted.
 
 ![Sign up](https://github.com/webzz99/Life-Hacks/blob/main/Media/section3Signup.png)
+
+
+In the following example, form validation is implemented to require the inclusion of an '@' symbol within the email field. Without this symbol, the input cannot be submitted.
+
+![Sign up validation](https://github.com/webzz99/Life-Hacks/blob/main/Media/Section3SignupValidation.png)
  
 # Footer
 The footer section of the life hacks site features a message that provides users with various options to contact the site, including email, phone, and postal mail using the address provided. Additionally, the footer includes links to the site's social media accounts, enabling users to connect with the site and engage with its content via social media platforms.
