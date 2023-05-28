@@ -7,9 +7,8 @@ Our target audience is anyone who is looking to improve their quality of life by
 
 # Features
 
-•	Existing Features
 
-# Navigation Bar:
+### Navigation Bar:
 
 Placed at the top of the website, the navigation bar provides users with easy access to every section, including the signup section, gallery, and about us section. It is designed to be fully responsive and is functional on all types of devices.
 
@@ -17,7 +16,7 @@ Placed at the top of the website, the navigation bar provides users with easy ac
 
  
 
-•	Life Hacks Landing page
+### Life Hacks Landing page
 
 The life hacks website's landing page features a visually pleasing design that showcases the site's motto "Making Life Easier" in an overlay on the landing page image. This captivating feature is the first thing that users see when they visit the site, providing them with an excellent first impression. Positioned above the image, the navigation bar is readily accessible, enabling users to move around the site with ease from the outset.
 
