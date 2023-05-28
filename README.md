@@ -3,6 +3,7 @@
 Welcome to "Life Hacks Hub" – your ultimate destination for all things life hacks! Our website is designed to offer an extensive range of tips, tricks, and practical solutions for everyday challenges that people face. From managing your finances, to optimizing your productivity, to making healthy lifestyle choices, our aim is to help you simplify your life, save time, and achieve your goals more effectively.
 Our target audience is anyone who is looking to improve their quality of life by learning new skills, adapting to new circumstances, and maximizing their resources. Whether you're a busy professional, a student, a stay-at-home parent, or a retiree, our website caters to your needs and provides actionable advice that can be easily implemented into your daily routine.
  
+ ![mockup]https://github.com/webzz99/Life-Hacks/blob/main/Media/mockup.png
 
 # Features
 
