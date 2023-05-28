@@ -55,6 +55,7 @@ In the following example, form validation is implemented to require the inclusio
 # Footer
 The footer section of the life hacks site features a message that provides users with various options to contact the site, including email, phone, and postal mail using the address provided. Additionally, the footer includes links to the site's social media accounts, enabling users to connect with the site and engage with its content via social media platforms.
 
+![Footer](https://github.com/webzz99/Life-Hacks/blob/main/Media/Section4Footer.png)
 
 The footer of the life hacks site features a convenient button labeled "Back to Top." Clicking this button instantly sends users back to the top of the page, saving them the hassle of manually scrolling up. This feature enhances the user-friendliness of the site, making it more accessible and efficient for users to navigate through its content.
 
