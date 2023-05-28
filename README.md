@@ -44,7 +44,7 @@ The footer section of the life hacks site features a message that provides users
 
 The footer of the life hacks site features a convenient button labeled "Back to Top." Clicking this button instantly sends users back to the top of the page, saving them the hassle of manually scrolling up. This feature enhances the user-friendliness of the site, making it more accessible and efficient for users to navigate through its content.
 
-/workspaces/Life-Hacks/Media/BacktoToplink.png
+https://github.com/webzz99/Life-Hacks/blob/main/Media/BacktoToplink.png
 
 
 
